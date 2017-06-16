@@ -4,13 +4,15 @@
 # Created by: Jimmy Mkude
 # Date Created: 6/15/2017
 #
+#   Driver of the game
+#
 ########################################################################
 
 
 
 import sys
 
-from player import Bot
+from bot import Bot
 import library as game
 
 

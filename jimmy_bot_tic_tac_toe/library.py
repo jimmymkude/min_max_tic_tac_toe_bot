@@ -4,6 +4,8 @@
 # Created by: Jimmy Mkude
 # Date Created: 6/15/2017
 #
+#   Tic Tac Toe Library functions to support game execution
+#
 ########################################################################
 
 
